@@ -2,6 +2,7 @@
 #define VEICULO_H
 
 #include <iostream>
+#include <cstring>
 
 class Veiculo {
 protected:
