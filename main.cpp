@@ -5,8 +5,8 @@
 using namespace std;
 
 int main() {
-    Carro carro;  // Construtor de Carro solicita nome e número de portas automaticamente
-    Moto moto;    // Construtor de Moto solicita nome e tipo de guidão automaticamente
+    Carro carro;  // Instancia um objeto da classe Carro
+    Moto moto;    // Instancia um objeto da classe Carro
 
     int opcao;
 
