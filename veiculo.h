@@ -1,6 +1,8 @@
 #ifndef VEICULO_H
 #define VEICULO_H
 
+#include <iostream>
+
 class Veiculo {
 protected:
     char nome[50];
