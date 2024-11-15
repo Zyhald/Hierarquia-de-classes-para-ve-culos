@@ -1,6 +1,4 @@
 #include "veiculo.h"
-#include <iostream>
-#include <cstring>
 
 Veiculo::Veiculo() {
     std::cout << "Digite o nome do veículo: ";
